@@ -1,11 +1,6 @@
 import styled from "styled-components";
 
 export const StyledLink = styled.h1`
-  width: 123px;
-  height: 24px;
-  left: 488px;
-  top: 691px;
-
   font-family: "Poppins";
   font-style: normal;
   font-weight: 500;
